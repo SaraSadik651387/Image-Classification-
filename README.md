@@ -33,19 +33,13 @@ pip install tensorflow==2.11.0 numpy pillow
 
 ## How to Use
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
-
-2. **Run the Jupyter Notebook**:
+1. **Run the Jupyter Notebook**:
    Open `predict.ipynb` in Jupyter Notebook or Google Colab :
    - Load the model.
    - Preprocess an image.
    - Make predictions.
 
-3. **Output**:
+2. **Output**:
    The notebook will output the predicted class and the confidence score. Example:
 
    ```
